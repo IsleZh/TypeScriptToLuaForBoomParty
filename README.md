@@ -1,3 +1,4 @@
+![Logo](./pic/TSTLForBoomParty_logo.png)
 # TsToLua(BoomParty!)
 
 本项目为TypescriptToLua项目的BoomParty开发环境的集成。
