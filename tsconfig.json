@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+
+      "target": "esnext",
+      "module": "commonjs",
+      //"jsx": "react",
+      //"sourceMap": true,
+
+      //"declaration": true,
+      "moduleResolution": "node",
+      "types": [],
+      "strict": true,
+      "typeRoots": [],
+      "outDir": "build",
+    },
+    "tstl": {
+      "luaTarget": "JIT",
+      //"buildMode": "library"
+    },
+
+  }
